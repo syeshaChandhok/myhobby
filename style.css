@@ -16,7 +16,7 @@ body{
     right:0;
     top:0;
     bottom:0;
-    background-color:mintcream;
+    background-color:lightcyan;
     display:table;
     width:100%;
     height:100%;
@@ -51,7 +51,7 @@ p{
 }
 .menus{
     position:fixed;
-    background-color:azure;
+    background-color:lightyellow;
     width:100%;
     margin-top: 0px;
     top:0px;
@@ -94,5 +94,8 @@ a{
     width:250px;
     height:250px;
     display: inline;
+}
+#contact{
+    background-color: papayawhip;
 }
 
